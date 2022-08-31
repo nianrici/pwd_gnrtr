@@ -1,0 +1,10 @@
+#+title: Readme
+
+* Generador de contraseñas casero
+Para ir practicando con python, he creado este generador de contraseñas. Mantengo la versión inicial (_v0, la cual es totalmente funcional) para ver el progreso con el paso de las versiones.
+
+La versión 1 se perdió durante la migración de neovim a (Doom)emacs... tampoco se ha perdido tanto.
+
+Para futuras versiones:
+- TODO implementar la validación de la longitud min y max de las contraseñas.
+- TODO hacerlo compatible con gnu-pass y poder almacenar la contraseña generada en un nuevo registro.
