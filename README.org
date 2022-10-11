@@ -7,4 +7,3 @@ La versión 1 se perdió durante la migración de neovim a (Doom)emacs... tampoc
 
 Para futuras versiones:
 - TODO implementar la validación de la longitud min y max de las contraseñas.
-- TODO hacerlo compatible con gnu-pass y poder almacenar la contraseña generada en un nuevo registro.
